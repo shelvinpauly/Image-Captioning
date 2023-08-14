@@ -1,5 +1,3 @@
-Here is a draft README file for your image captioning project:
-
 # Image Captioning with Vision Transformers
 
 ## Overview
